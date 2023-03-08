@@ -1,7 +1,7 @@
 job :
     - title
     - location
-    - job typr
+    - job type
     - descriotion
     - published at
     - vacancy
